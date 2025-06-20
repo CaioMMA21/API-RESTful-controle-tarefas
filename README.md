@@ -47,4 +47,3 @@ Você pode criar um arquivo `.env` para definir a variável `JWT_SECRET` (opcion
 
 ---
 
-> Projeto desenvolvido por CaioMMA21 
