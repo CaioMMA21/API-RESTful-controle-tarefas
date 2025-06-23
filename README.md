@@ -41,9 +41,7 @@ npm test
 ## Variáveis de ambiente
 Você pode criar um arquivo `.env` para definir a variável `JWT_SECRET` (opcional).
 
-## Observações
-- O banco de dados é um arquivo SQLite local (`database.sqlite`).
-- Não suba o arquivo `database.sqlite` nem a pasta `node_modules` para o repositório.
+
 
 ---
 
